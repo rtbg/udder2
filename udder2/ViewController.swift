@@ -18,6 +18,14 @@ class ViewController: UIViewController {
     override func viewWillAppear(_ animated: Bool) {
         //
     }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        //
+    }
+    
+    override func viewWillLayoutSubviews() {
+        //
+    }
 
 
 }
